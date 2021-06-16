@@ -7,4 +7,4 @@
 # │ │ │ │ │
 # │ │ │ │ │
 # * * * * * command to execute
- 40 4 * * * stefets /home/stefets/projets/labs/eclipse/suncapture.sh
+ 40 4 * * * stefets /home/stefets/projets/labs/eclipse/exec-capture.sh
